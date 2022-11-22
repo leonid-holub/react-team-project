@@ -1,0 +1,17 @@
+.header-container {
+  margin-top: 80px;
+}
+
+.header {
+  display: flex;
+  align-items: baseline;
+  height: 66px;
+}
+
+.logo {
+  margin-right: 40px;
+}
+
+.nav {
+  display: flex;
+}
